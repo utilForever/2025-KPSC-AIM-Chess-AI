@@ -4,11 +4,21 @@
 
 ## Contents
 
-TBD
+- Phase 1: Introduction to Reinforcement Learning
+  - TBA
+- Phase 2: Reinforcement Learning Paper Review
+  - TBA
+- Phase 3: Making a Simple Chess AI
+  - TBA
 
 ## References
 
-TBA
+- Phase 1: Introduction to Reinforcement Learning
+  - TBA
+- Phase 2: Reinforcement Learning Paper Review
+  - TBA
+- Phase 3: Making a Simple Chess AI
+  - TBA
 
 ## How To Contribute
 
