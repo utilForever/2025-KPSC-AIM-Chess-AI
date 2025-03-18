@@ -5,7 +5,8 @@
 ## Contents
 
 - Phase 1: Introduction to Reinforcement Learning
-  - TBA
+  - Week 0 (3/24)
+    - Introduction
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
