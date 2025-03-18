@@ -7,6 +7,16 @@
 - Phase 1: Introduction to Reinforcement Learning
   - Week 0 (3/24)
     - Introduction
+  - Week 1 (3/24)
+    - What is Reinforcement Learning?
+    - MDP (Markov Decision Process)
+      - State
+      - Action
+      - Reward Function
+      - State Transition Probability
+      - Discount Factor
+      - Policy
+    - Value Function and Q-Function
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
