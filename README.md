@@ -14,7 +14,15 @@
 ## References
 
 - Phase 1: Introduction to Reinforcement Learning
-  - TBA
+  - [DeepMind x UCL: Introduction to Reinforcement Learning](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&feature=shared)
+  - [모두를 위한 강화학습](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&feature=shared)
+  - [Book: Reinforcement Learning, Second Edition: An Introduction](https://a.co/d/ftoX3pX)
+  - [Gymnasium Documentation](https://gymnasium.farama.org/)
+  - [Book: Grokking Deep Reinforcement Learning](https://a.co/d/iWtLcIu)
+  - [Book: Reinforcement Learning: Industrial Applications of Intelligent Agents](https://a.co/d/8moT0s5)
+  - [Book: Deep Reinforcement Learning Hands-On, Third Edition](https://a.co/d/7kW9gu3)
+  - [Book: 파이썬과 케라스로 배우는 강화학습](https://product.kyobobook.co.kr/detail/S000001766424)
+  - [Book: 수학으로 풀어보는 강화학습 원리와 알고리즘](https://product.kyobobook.co.kr/detail/S000001766484)
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
