@@ -5,7 +5,7 @@
 ## Contents
 
 - Phase 1: Introduction to Reinforcement Learning
-  - Week 0 (3/24)
+  - Week 0 (3/24) [[Lecture]](./1%20-%20Lecture/250324%20-%20Making%20Chess%20AI%20using%20RL,%20Week%200.pdf)
     - Introduction
   - Week 1 (3/24)
     - What is Reinforcement Learning?
