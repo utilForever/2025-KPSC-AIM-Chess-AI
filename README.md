@@ -27,8 +27,8 @@
 - Phase 1: Introduction to Reinforcement Learning
   - [DeepMind x UCL: Introduction to Reinforcement Learning](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&feature=shared)
   - [모두를 위한 강화학습](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&feature=shared)
-  - [Book: Reinforcement Learning, Second Edition: An Introduction](https://a.co/d/ftoX3pX)
   - [Gymnasium Documentation](https://gymnasium.farama.org/)
+  - [Book: Reinforcement Learning, Second Edition: An Introduction](https://a.co/d/ftoX3pX)
   - [Book: Grokking Deep Reinforcement Learning](https://a.co/d/iWtLcIu)
   - [Book: Reinforcement Learning: Industrial Applications of Intelligent Agents](https://a.co/d/8moT0s5)
   - [Book: Deep Reinforcement Learning Hands-On, Third Edition](https://a.co/d/7kW9gu3)
