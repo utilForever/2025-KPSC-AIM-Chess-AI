@@ -17,6 +17,16 @@
       - Discount Factor
       - Policy
     - Value Function and Q-Function
+  - Week 2 (3/31)
+    - Bellman Equation
+      - Bellman Expectation Equation
+      - Bellman Optimality Equation
+    - Dynamic Programming
+      - Policy Iteration
+      - Value Iteration
+    - Exercise #1
+      - Policy Iteration
+      - Value Iteration
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
