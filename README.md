@@ -17,7 +17,7 @@
       - Discount Factor
       - Policy
     - Value Function and Q-Function
-  - Week 2 (3/31) [[Lecture]](./1%20-%20Lecture/250331%20-%20Making%20Chess%20AI%20using%20RL,%20Week%202.pdf)
+  - Week 2 (3/31) [[Lecture]](./1%20-%20Lecture/250331%20-%20Making%20Chess%20AI%20using%20RL,%20Week%202.pdf) [[Example Code]](./2%20-%20Code/250331%20-%20Making%20Chess%20AI%20using%20RL,%20Week%202/)
     - Bellman Equation
       - Bellman Expectation Equation
       - Bellman Optimality Equation
