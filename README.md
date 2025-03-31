@@ -27,6 +27,16 @@
     - Exercise #1
       - Policy Iteration
       - Value Iteration
+  - Week 3 (4/7)
+    - Policy Evaluation
+      - Monte-Carlo Prediction
+      - Temporal-Difference Prediction
+    - SARSA
+    - Q-Learning
+    - Exercise #2
+      - Monte-Carlo
+      - SARSA
+      - Q-Learning
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
