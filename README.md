@@ -27,7 +27,7 @@
     - Exercise #1
       - Policy Iteration
       - Value Iteration
-  - Week 3 (4/7) [[Lecture]](./1%20-%20Lecture/250407%20-%20Making%20Chess%20AI%20using%20RL,%20Week%203.pdf)
+  - Week 3 (4/7) [[Lecture]](./1%20-%20Lecture/250407%20-%20Making%20Chess%20AI%20using%20RL,%20Week%203.pdf) [[Example Code]](./2%20-%20Code/250407%20-%20Making%20Chess%20AI%20using%20RL,%20Week%203/)
     - Policy Evaluation
       - Monte-Carlo Prediction
       - Temporal-Difference Prediction
