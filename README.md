@@ -37,6 +37,10 @@
       - Monte-Carlo
       - SARSA
       - Q-Learning
+  - Week 4 (4/14)
+    - Assignment #1
+      - Maze
+      - Windy Gridworld
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
