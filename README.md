@@ -43,6 +43,8 @@
       - Windy Gridworld [[Base Code]](./3%20-%20Assignment/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/windy-gridworld/)
   - Week 5 (4/21)
     - No Lecture (Midterm Exam Week)
+  - Week 6 (4/28)
+    - No Lecture (Midterm Exam Week)    
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
