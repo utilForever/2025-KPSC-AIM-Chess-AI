@@ -1,5 +1,5 @@
+from assignment import q_learning, sarsa, expected_sarsa
 from environment import WindyGridworld
-from algorithms import q_learning, sarsa, expected_sarsa
 from visualizations import plot_running_average, plot_zoomed_rewards
 
 
