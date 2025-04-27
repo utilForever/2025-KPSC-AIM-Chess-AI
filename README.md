@@ -44,7 +44,9 @@
   - Week 5 (4/21)
     - No Lecture (Midterm Exam Week)
   - Week 6 (4/28)
-    - No Lecture (Midterm Exam Week)    
+    - No Lecture (Midterm Exam Week)
+  - Week 7 (5/5)
+    - No Lecture (Children's Day)
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
