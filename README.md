@@ -40,7 +40,7 @@
   - Week 4 (4/14) [[Assignment]](./3%20-%20Assignment/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Assignment%201.pdf)
     - Assignment #1
       - Maze [[Base Code]](./3%20-%20Assignment/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/maze/) [[Solution]](./4%20-%20Solution/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/maze/)
-      - Windy Gridworld [[Base Code]](./3%20-%20Assignment/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/windy-gridworld/)
+      - Windy Gridworld [[Base Code]](./3%20-%20Assignment/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/windy-gridworld/) [[Solution]](./4%20-%20Solution/250414%20-%20Making%20Chess%20AI%20using%20RL,%20Week%204/windy-gridworld/)
   - Week 5 (4/21)
     - No Lecture (Midterm Exam Week)
   - Week 6 (4/28)
