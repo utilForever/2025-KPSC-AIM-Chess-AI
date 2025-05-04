@@ -47,6 +47,10 @@
     - No Lecture (Midterm Exam Week)
   - Week 7 (5/5)
     - No Lecture (Children's Day)
+  - Week 8 (5/12)
+    - Deep Learning with PyTorch
+      - What is PyTorch?
+      - PyTorch Tutorial
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
