@@ -47,7 +47,7 @@
     - No Lecture (Midterm Exam Week)
   - Week 7 (5/5)
     - No Lecture (Children's Day)
-  - Week 8 (5/12)
+  - Week 8 (5/12) [[Lecture]](./1%20-%20Lecture/250512%20-%20Making%20Chess%20AI%20using%20RL,%20Week%208.pdf)
     - Deep Learning with PyTorch
       - What is PyTorch?
       - PyTorch Tutorial
