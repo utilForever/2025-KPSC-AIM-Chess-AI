@@ -51,6 +51,14 @@
     - Deep Learning with PyTorch
       - What is PyTorch?
       - PyTorch Tutorial
+  - Week 9 (5/19)
+    - Deep SARSA
+    - Policy Gradient
+      - Policy-based Reinforcement Learning
+      - REINFORCE
+    - Exercise #3
+      - Deep SARSA
+      - REINFORCE
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
