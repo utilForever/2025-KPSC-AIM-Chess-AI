@@ -51,7 +51,7 @@
     - Deep Learning with PyTorch
       - What is PyTorch?
       - PyTorch Tutorial
-  - Week 9 (5/19) [[Lecture]](./1%20-%20Lecture/250519%20-%20Making%20Chess%20AI%20using%20RL,%20Week%209.pdf)
+  - Week 9 (5/19) [[Lecture]](./1%20-%20Lecture/250519%20-%20Making%20Chess%20AI%20using%20RL,%20Week%209.pdf) [[Example Code]](./2%20-%20Code/250519%20-%20Making%20Chess%20AI%20using%20RL,%20Week%209/)
     - Deep SARSA
     - Policy Gradient
       - Policy-based Reinforcement Learning
