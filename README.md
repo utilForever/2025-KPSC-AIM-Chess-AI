@@ -59,6 +59,10 @@
     - Exercise #3
       - Deep SARSA
       - REINFORCE
+  - Week 10 (5/26)
+    - DQN
+    - Exercise #4
+      - DQN      
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
