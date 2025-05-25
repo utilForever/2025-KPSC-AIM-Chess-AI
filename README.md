@@ -59,7 +59,7 @@
     - Exercise #3
       - Deep SARSA
       - REINFORCE
-  - Week 10 (5/26) [[Lecture]](./1%20-%20Lecture/250526%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2010.pdf)
+  - Week 10 (5/26) [[Lecture]](./1%20-%20Lecture/250526%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2010.pdf) [[Example Code]](./2%20-%20Code/250526%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2010/)
     - DQN
     - Exercise #4
       - DQN      
