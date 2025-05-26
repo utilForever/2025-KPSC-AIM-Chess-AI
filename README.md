@@ -62,7 +62,15 @@
   - Week 10 (5/26) [[Lecture]](./1%20-%20Lecture/250526%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2010.pdf) [[Example Code]](./2%20-%20Code/250526%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2010/)
     - DQN
     - Exercise #4
-      - DQN      
+      - DQN
+  - Week 11 (6/2)
+    - Actor-Critic
+      - Advantage Actor-Critic (A2C)
+      - Asynchronous Advantage Actor-Critic (A3C)
+    - Exercise #5
+      - Actor-Critic
+      - Advantage Actor-Critic (A2C)
+      - Asynchronous Advantage Actor-Critic (A3C)
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
