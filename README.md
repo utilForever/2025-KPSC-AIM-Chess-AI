@@ -65,12 +65,11 @@
       - DQN
   - Week 11 (6/2)
     - Actor-Critic
+      - Actor-Critic Architecture
       - Advantage Actor-Critic (A2C)
-      - Asynchronous Advantage Actor-Critic (A3C)
     - Exercise #5
-      - Actor-Critic
-      - Advantage Actor-Critic (A2C)
-      - Asynchronous Advantage Actor-Critic (A3C)
+      - Discrete A2C
+      - Continuous A2C
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
