@@ -63,7 +63,7 @@
     - DQN
     - Exercise #4
       - DQN
-  - Week 11 (6/2)
+  - Week 11 (6/4)
     - Actor-Critic
       - Actor-Critic Architecture
       - Advantage Actor-Critic (A2C)
