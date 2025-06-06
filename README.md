@@ -70,6 +70,10 @@
     - Exercise #5
       - Discrete A2C
       - Continuous A2C
+  - Week 12 (6/9)
+    - Assignment #2
+      - LunarLander
+      - Breakout
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
 - Phase 3: Making a Simple Chess AI
