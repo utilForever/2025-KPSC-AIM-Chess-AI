@@ -70,7 +70,7 @@
     - Exercise #5
       - Discrete A2C
       - Continuous A2C
-  - Week 12 (6/23) [[Assignment]](./3%20-%20Assignment/250609%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2012/250609%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2012,%20Assignment%202.pdf)
+  - Week 12 (6/23) [[Assignment]](./3%20-%20Assignment/250623%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2012/250623%20-%20Making%20Chess%20AI%20using%20RL,%20Assignment%202.pdf)
     - Assignment #2
       - LunarLander (DQN)
       - Breakout (DQN)
