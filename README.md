@@ -73,7 +73,7 @@
   - Week 12 (6/23) [[Assignment]](./3%20-%20Assignment/250623%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2012/250623%20-%20Making%20Chess%20AI%20using%20RL,%20Assignment%202.pdf)
     - Assignment #2
       - LunarLander (DQN) [[Base Code]](./3%20-%20Assignment/250623%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2012/lunarlander/)
-      - Breakout (DQN)
+      - Breakout (DQN) [[Base Code]](./3%20-%20Assignment/250623%20-%20Making%20Chess%20AI%20using%20RL,%20Week%2012/breakout-dqn/)
       - Breakout (A2C)
 - Phase 2: Reinforcement Learning Paper Review
   - TBA
